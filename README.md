@@ -1,5 +1,8 @@
 # beta_betabinomial_graphs
 
+You can access to this app from the link below.
+https://beta-betabinomial-graphs.herokuapp.com/
+
 ## Description
 - This app displays interactive graphs of the beta distribution and the beta binomial distribution.
 - You can input any numerical value to the parameters(a, b, n, and sample size) to illustrate the corresponding probability functions of each distribution.
