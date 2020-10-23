@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "test_streamlit"
+version = "0.1.0"
+description = ""
+authors = ["hayanari <ptpforever421@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+streamlit = "^0.69.2"
+numpy = "^1.19.2"
+matplotlib = "^3.3.2"
+seaborn = "^0.11.0"
+scipy = "^1.5.3"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
