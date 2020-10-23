@@ -1,6 +1,6 @@
 # beta_betabinomial_graphs
 
-You can access to this app from the link below.  
+You can click the link below to get access to this app.  
 https://beta-betabinomial-graphs.herokuapp.com/
 
 ## Description
