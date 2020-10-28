@@ -1,7 +1,7 @@
 # beta_betabinomial_graphs
 
 You can click the link below to get access to this app.  
-https://beta-betabinomial-graphs.herokuapp.com/
+https://share.streamlit.io/hxmkuma/beta_betabinomial_graphs/main.py
 
 ## Description
 - This app displays interactive graphs of the beta distribution and the beta binomial distribution.
